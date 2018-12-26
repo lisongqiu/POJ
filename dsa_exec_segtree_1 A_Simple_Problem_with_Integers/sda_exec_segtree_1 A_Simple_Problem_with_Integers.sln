@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sda_exec_segtree_1 A_Simple_Problem_with_Integers", "sda_exec_segtree_1 A_Simple_Problem_with_Integers\sda_exec_segtree_1 A_Simple_Problem_with_Integers.vcxproj", "{31777205-CED9-4D8B-9561-5576677D7BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Debug|x64.ActiveCfg = Debug|x64
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Debug|x64.Build.0 = Debug|x64
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Debug|x86.Build.0 = Debug|Win32
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Release|x64.ActiveCfg = Release|x64
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Release|x64.Build.0 = Release|x64
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Release|x86.ActiveCfg = Release|Win32
+		{31777205-CED9-4D8B-9561-5576677D7BFA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C962E06-10A8-45CC-9597-49B776622921}
+	EndGlobalSection
+EndGlobal

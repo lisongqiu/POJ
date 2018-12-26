@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\3259 wormholes\3259 wormholes\main.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\3259 wormholes\3259 wormholes\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  3259 Wormholes.vcxproj -> D:\Inner\poj\3259 Wormholes\Debug\3259 Wormholes.exe

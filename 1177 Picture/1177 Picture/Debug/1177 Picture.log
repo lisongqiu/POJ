@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\1177 picture\1177 picture\main.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\1177 picture\1177 picture\main.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+  1177 Picture.vcxproj -> D:\Inner\poj\1177 Picture\Debug\1177 Picture.exe

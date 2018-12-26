@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\2833 the_average\2833 the_average\main.cpp(24): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+d:\inner\poj\2833 the_average\2833 the_average\main.cpp(34): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+d:\inner\poj\2833 the_average\2833 the_average\main.cpp(39): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+  2833 The_Average.vcxproj -> D:\Inner\poj\2833 The_Average\Debug\2833 The_Average.exe

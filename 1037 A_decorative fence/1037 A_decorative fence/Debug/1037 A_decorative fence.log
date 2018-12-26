@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\think\source\repos\1037 a_decorative fence\1037 a_decorative fence\main.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\think\source\repos\1037 a_decorative fence\1037 a_decorative fence\main.cpp(69): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+c:\users\think\source\repos\1037 a_decorative fence\1037 a_decorative fence\main.cpp(70): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  1037 A_decorative fence.vcxproj -> C:\Users\Think\source\repos\1037 A_decorative fence\Debug\1037 A_decorative_fence.exe

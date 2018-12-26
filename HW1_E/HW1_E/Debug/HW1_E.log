@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\hw1_e\hw1_e\main.cpp(14): warning C4018: “>=”: 有符号/无符号不匹配
+d:\inner\poj\hw1_e\hw1_e\main.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\hw1_e\hw1_e\main.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  HW1_E.vcxproj -> D:\Inner\poj\HW1_E\Debug\HW1_E.exe

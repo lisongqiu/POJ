@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW4_A_Drainage_Ditches", "HW4_A_Drainage_Ditches\HW4_A_Drainage_Ditches.vcxproj", "{7EA0AC16-B925-49D1-99A7-B255D20C027B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Debug|x64.ActiveCfg = Debug|x64
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Debug|x64.Build.0 = Debug|x64
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Debug|x86.Build.0 = Debug|Win32
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Release|x64.ActiveCfg = Release|x64
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Release|x64.Build.0 = Release|x64
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Release|x86.ActiveCfg = Release|Win32
+		{7EA0AC16-B925-49D1-99A7-B255D20C027B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF3426A-F5D9-4E7A-92D2-6105179772C1}
+	EndGlobalSection
+EndGlobal

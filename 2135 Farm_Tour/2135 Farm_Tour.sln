@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2135 Farm_Tour", "2135 Farm_Tour\2135 Farm_Tour.vcxproj", "{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Debug|x64.ActiveCfg = Debug|x64
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Debug|x64.Build.0 = Debug|x64
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Debug|x86.Build.0 = Debug|Win32
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Release|x64.ActiveCfg = Release|x64
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Release|x64.Build.0 = Release|x64
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Release|x86.ActiveCfg = Release|Win32
+		{48909E49-1AEB-4FF4-BA90-E1B8EF294FD3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4E65EC-32CE-4360-9FC5-39E2EE6E4BF5}
+	EndGlobalSection
+EndGlobal

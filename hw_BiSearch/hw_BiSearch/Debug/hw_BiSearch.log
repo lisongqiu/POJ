@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\hw_bisearch\hw_bisearch\main.cpp(8): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+d:\inner\poj\hw_bisearch\hw_bisearch\main.cpp(13): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  hw_BiSearch.vcxproj -> D:\Inner\poj\hw_BiSearch\Debug\hw_BiSearch.exe

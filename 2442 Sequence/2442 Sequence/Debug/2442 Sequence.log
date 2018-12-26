@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\2442 sequence\2442 sequence\main.cpp(37): warning C4018: “>=”: 有符号/无符号不匹配
+d:\inner\poj\2442 sequence\2442 sequence\main.cpp(41): warning C4018: “>”: 有符号/无符号不匹配
+d:\inner\poj\2442 sequence\2442 sequence\main.cpp(22): warning C4101: “k”: 未引用的局部变量
+  2442 Sequence.vcxproj -> D:\Inner\poj\2442 Sequence\Debug\2442 Sequence.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\1273 drainage_ditches\1273 drainage_ditches\main.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\1273 drainage_ditches\1273 drainage_ditches\main.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+  1273 Drainage_Ditches.vcxproj -> D:\Inner\poj\1273 Drainage_Ditches\Debug\1273 Drainage_Ditches.exe

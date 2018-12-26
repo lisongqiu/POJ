@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\1151 atlantis\1151 atlantis\main.cpp(43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\inner\poj\1151 atlantis\1151 atlantis\main.cpp(58): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\inner\poj\1151 atlantis\1151 atlantis\main.cpp(86): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  1151 Atlantis.vcxproj -> D:\Inner\poj\1151 Atlantis\Debug\1151 Atlantis.exe

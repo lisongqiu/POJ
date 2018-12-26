@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\dsa_exec_segtree_2 k-th_number\dsa_exec_segtree_2 k-th_number\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\dsa_exec_segtree_2 k-th_number\dsa_exec_segtree_2 k-th_number\main.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\dsa_exec_segtree_2 k-th_number\dsa_exec_segtree_2 k-th_number\main.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+  dsa_exec_segtree_2 K-th_Number.vcxproj -> D:\Inner\poj\dsa_exec_segtree_2 K-th_Number\Debug\dsa_exec_segtree_2 K-th_Number.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\hw4_c_dual_core_cpu\hw4_c_dual_core_cpu\main.cpp(137): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LL”
+  d:\inner\poj\hw4_c_dual_core_cpu\hw4_c_dual_core_cpu\main.cpp(137): note: 请考虑在格式字符串中使用“%lld”
+  d:\inner\poj\hw4_c_dual_core_cpu\hw4_c_dual_core_cpu\main.cpp(137): note: 请考虑在格式字符串中使用“%I64d”
+  HW4_C_Dual_Core_CPU.vcxproj -> D:\Inner\poj\HW4_C_Dual_Core_CPU\Debug\HW4_C_Dual_Core_CPU.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\2367 genealogical_tree\2367 genealogical_tree\main.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\2367 genealogical_tree\2367 genealogical_tree\main.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+  2367 Genealogical_Tree.vcxproj -> D:\Inner\poj\2367 Genealogical_Tree\Debug\2367 Genealogical_Tree.exe

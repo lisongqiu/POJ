@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\1860 currency_exchange\1860 currency_exchange\main.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\1860 currency_exchange\1860 currency_exchange\main.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+  1860 Currency_Exchange.vcxproj -> D:\Inner\poj\1860 Currency_Exchange\Debug\1860 Currency_Exchange.exe

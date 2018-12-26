@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3278 Catch_That_Cow", "3278 Catch_That_Cow\3278 Catch_That_Cow.vcxproj", "{38DA73D4-48CC-4D90-AE2D-737143B61E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Debug|x64.ActiveCfg = Debug|x64
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Debug|x64.Build.0 = Debug|x64
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Debug|x86.Build.0 = Debug|Win32
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Release|x64.ActiveCfg = Release|x64
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Release|x64.Build.0 = Release|x64
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Release|x86.ActiveCfg = Release|Win32
+		{38DA73D4-48CC-4D90-AE2D-737143B61E2E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F0AA6C-42C8-4ACB-A152-1509098BD2C3}
+	EndGlobalSection
+EndGlobal

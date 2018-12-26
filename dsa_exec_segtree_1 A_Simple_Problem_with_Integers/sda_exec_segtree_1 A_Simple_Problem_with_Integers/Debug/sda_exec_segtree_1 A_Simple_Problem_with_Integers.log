@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\sda_exec_segtree_1 a_simple_problem_with_integers\sda_exec_segtree_1 a_simple_problem_with_integers\main.cpp(73): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\inner\poj\sda_exec_segtree_1 a_simple_problem_with_integers\sda_exec_segtree_1 a_simple_problem_with_integers\main.cpp(74): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  sda_exec_segtree_1 A_Simple_Problem_with_Integers.vcxproj -> D:\Inner\poj\sda_exec_segtree_1 A_Simple_Problem_with_Integers\Debug\sda_exec_segtree_1 A_Simple_Problem_with_Integers.exe

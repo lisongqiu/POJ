@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW2_F_求逆序对数", "HW2_F_求逆序对数\HW2_F_求逆序对数.vcxproj", "{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Debug|x64.ActiveCfg = Debug|x64
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Debug|x64.Build.0 = Debug|x64
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Debug|x86.Build.0 = Debug|Win32
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Release|x64.ActiveCfg = Release|x64
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Release|x64.Build.0 = Release|x64
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Release|x86.ActiveCfg = Release|Win32
+		{AF957AF2-15A6-489B-BAEF-0BBCDD13BCF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F145C4BA-E282-4547-B18A-CC080EBD275C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\hw4_b_dining\hw4_b_dining\main.cpp(123): warning C4101: “ds”: 未引用的局部变量
+d:\inner\poj\hw4_b_dining\hw4_b_dining\main.cpp(123): warning C4101: “fs”: 未引用的局部变量
+  HW4_B_Dining.vcxproj -> D:\Inner\poj\HW4_B_Dining\Debug\HW4_B_Dining.exe
