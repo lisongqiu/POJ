@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\1149 pigs\1149 pigs\main.cpp(177): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LL”
+  d:\inner\poj\1149 pigs\1149 pigs\main.cpp(177): note: 请考虑在格式字符串中使用“%lld”
+  d:\inner\poj\1149 pigs\1149 pigs\main.cpp(177): note: 请考虑在格式字符串中使用“%I64d”
+  1149 PIGS.vcxproj -> D:\Inner\poj\1149 PIGS\Debug\1149 PIGS.exe
