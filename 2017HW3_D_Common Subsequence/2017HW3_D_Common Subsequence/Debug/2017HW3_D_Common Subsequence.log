@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\inner\poj\2017hw3_d_common subsequence\2017hw3_d_common subsequence\main.cpp(18): warning C4018: “<=”: 有符号/无符号不匹配
+d:\inner\poj\2017hw3_d_common subsequence\2017hw3_d_common subsequence\main.cpp(20): warning C4018: “<=”: 有符号/无符号不匹配
+d:\inner\poj\2017hw3_d_common subsequence\2017hw3_d_common subsequence\main.cpp(22): warning C4018: “<=”: 有符号/无符号不匹配
+d:\inner\poj\2017hw3_d_common subsequence\2017hw3_d_common subsequence\main.cpp(23): warning C4018: “<=”: 有符号/无符号不匹配
+  2017HW3_D_Common Subsequence.vcxproj -> D:\Inner\poj\2017HW3_D_Common Subsequence\Debug\2017HW3_D_Common Subsequence.exe
