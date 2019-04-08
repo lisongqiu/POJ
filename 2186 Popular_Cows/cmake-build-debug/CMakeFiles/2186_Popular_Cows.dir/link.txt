@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2186_Popular_Cows.dir/main.cpp.o  -o 2186_Popular_Cows 

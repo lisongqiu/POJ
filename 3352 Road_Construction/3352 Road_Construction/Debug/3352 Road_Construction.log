@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\3352 road_construction\3352 road_construction\main.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\3352 road_construction\3352 road_construction\main.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\3352 road_construction\3352 road_construction\main.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+  3352 Road_Construction.vcxproj -> D:\Inner\poj\3352 Road_Construction\Debug\3352 Road_Construction.exe

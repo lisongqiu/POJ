@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/qiuls/软件/Inner/poj/2186 Popular_Cows/main.cpp
+iostream
+-
+algorithm
+-
+string.h
+-
+vector
+-
+stack
+-
+

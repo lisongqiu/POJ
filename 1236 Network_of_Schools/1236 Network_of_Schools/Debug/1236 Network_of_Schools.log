@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\1236 network_of_schools\1236 network_of_schools\main.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\1236 network_of_schools\1236 network_of_schools\main.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\1236 network_of_schools\1236 network_of_schools\main.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+  1236 Network_of_Schools.vcxproj -> D:\Inner\poj\1236 Network_of_Schools\Debug\1236 Network_of_Schools.exe

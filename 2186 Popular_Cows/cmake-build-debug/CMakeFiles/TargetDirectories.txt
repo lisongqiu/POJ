@@ -1,0 +1,3 @@
+/media/qiuls/软件/Inner/poj/2186 Popular_Cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/qiuls/软件/Inner/poj/2186 Popular_Cows/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/qiuls/软件/Inner/poj/2186 Popular_Cows/cmake-build-debug/CMakeFiles/2186_Popular_Cows.dir
