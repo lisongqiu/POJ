@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\inner\poj\3114 countries_in_war\3114 countries_in_war\main.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\3114 countries_in_war\3114 countries_in_war\main.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+  3114 Countries_in_War.vcxproj -> D:\Inner\poj\3114 Countries_in_War\Debug\3114 Countries_in_War.exe

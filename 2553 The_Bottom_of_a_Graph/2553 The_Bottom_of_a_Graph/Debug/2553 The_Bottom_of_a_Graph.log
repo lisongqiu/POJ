@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\inner\poj\2553 the_bottom_of_a_graph\2553 the_bottom_of_a_graph\main.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\2553 the_bottom_of_a_graph\2553 the_bottom_of_a_graph\main.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+d:\inner\poj\2553 the_bottom_of_a_graph\2553 the_bottom_of_a_graph\main.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+  2553 The_Bottom_of_a_Graph.vcxproj -> D:\Inner\poj\2553 The_Bottom_of_a_Graph\Debug\2553 The_Bottom_of_a_Graph.exe
