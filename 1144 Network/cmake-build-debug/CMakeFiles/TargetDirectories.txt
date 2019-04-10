@@ -1,0 +1,3 @@
+/media/qiuls/软件/Inner/poj/1144 Network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/qiuls/软件/Inner/poj/1144 Network/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/qiuls/软件/Inner/poj/1144 Network/cmake-build-debug/CMakeFiles/1144_Network.dir

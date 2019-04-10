@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1144_Network.dir/main.cpp.o  -o 1144_Network 
