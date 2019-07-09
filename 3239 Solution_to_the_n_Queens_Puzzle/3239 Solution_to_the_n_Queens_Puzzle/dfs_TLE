@@ -1,0 +1,60 @@
+#include <cstdio>
+#include <iostream>
+#include <algorithm>
+#include <string.h>
+#include <string>
+
+using namespace std;
+
+#define MAXN 301
+int N;
+
+bool used[MAXN][MAXN];
+int res[MAXN];
+int dirs[4][2] = { {1, -1},{1,1},{-1,-1},{-1,1} };
+
+bool check(int r, int c) {
+	for (int i = 0; i < N; i++) {
+		if (used[r][i] || used[i][c])
+			return false;
+	}
+	for (int i = 1; i < N; i++) {
+		for (int j = 0; j < 4; j++) {
+			int rr = r + dirs[j][0] * i, cc = c + dirs[j][1] * i;
+			if (rr >= 0 && cc >= 0 && rr < N&&cc < N&&used[rr][cc])
+				return false;
+		}
+	}
+	return true;
+}
+
+bool dfs(int r) {
+	if (r == N)
+		return true;
+	for (int i = 0; i < N; i++) {
+		// cout << r << " " << i << " " << used[r][i] << endl;
+		if (check(r, i)) {
+			used[r][i] = true;
+			if (dfs(r + 1)) {
+				res[r] = i;
+				return true;
+			}
+			used[r][i] = false;
+		}
+	}
+	return false;
+}
+
+int main() {
+	while (cin >> N) {
+		if (N == 0)
+			break;
+		memset(used, 0, sizeof(used));
+		dfs(0);
+		for (int i = 0; i < N; i++)
+			cout << res[i] + 1 << " ";
+		cout << endl;
+	}
+	system("pause");
+	return 0;
+}
